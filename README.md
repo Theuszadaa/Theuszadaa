@@ -18,7 +18,7 @@ Me chamo Natheus Matos Oliveira, tenho 18 anos e sou natural de São Paulo. Conc
 
 📩Contate-me: matheusmatospro@gmail.com
  
-Me chamo Natheus Matos Oliveira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio técnico em TI no Centro Universitário Senac Nações Unidas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sempre gostei de tecnologia
+
  
 ## Estatísticas 📊
 
