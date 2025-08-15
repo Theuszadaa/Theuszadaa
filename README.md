@@ -2,7 +2,9 @@
 
 ## Informações ℹ️
 💼Hoje trabalho com front-end
+
 📗Estudando Angular, TypeScript e Java
+
 📩Contate-me: matheusmatospro@gmail.com
 
 ## Sobre 👤
