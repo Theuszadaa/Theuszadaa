@@ -21,8 +21,10 @@ Me chamo Natheus Matos Oliveira, tenho 18 anos e sou natural de São Paulo. Conc
 Me chamo Natheus Matos Oliveira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio técnico em TI no Centro Universitário Senac Nações Unidas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Sempre gostei de tecnologia
  
 ## Estatísticas 📊
+
 | ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuszadaa&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuszadaa&layout=donut&theme=radical)](https://github.com/Theuszadaa/github-readme-stats) |
 |---|---|
+
 
 
  
